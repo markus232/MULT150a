@@ -20,4 +20,4 @@ Jumping on rocks to cross volcano.
 
 D. Modify the sky and textures to create a world based on your theme.
 
-Rocky mountains, dark caves, hot and ashy active volcano
+Rocky mountains, dark caves, hot and ashy active volcano air, fire lit sky.

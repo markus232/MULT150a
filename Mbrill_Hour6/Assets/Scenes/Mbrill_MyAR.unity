@@ -235,8 +235,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 770362781}
-  m_LocalRotation: {x: -0.0016374716, y: 0.93147403, z: 0.36376935, w: 0.0050366498}
-  m_LocalPosition: {x: 74.58599, y: -47.958588, z: 167.64076}
+  m_LocalRotation: {x: 0.5266801, y: 0.10876974, z: 0.067829736, w: -0.840343}
+  m_LocalPosition: {x: 73.60918, y: -4.5762634, z: 10.565242}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -313,19 +313,19 @@ PrefabInstance:
     - target: {fileID: 2300000, guid: b544816461f324e56a39767fdeb5b114, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: f85f511b30710bd468417ca9b03af952, type: 2}
+      objectReference: {fileID: 2100000, guid: 4c11e54477bc94744a2fa3433d9fa306, type: 2}
     - target: {fileID: 2300002, guid: b544816461f324e56a39767fdeb5b114, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: f85f511b30710bd468417ca9b03af952, type: 2}
+      objectReference: {fileID: 2100000, guid: 4c11e54477bc94744a2fa3433d9fa306, type: 2}
     - target: {fileID: 2300004, guid: b544816461f324e56a39767fdeb5b114, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: f85f511b30710bd468417ca9b03af952, type: 2}
+      objectReference: {fileID: 2100000, guid: 4c11e54477bc94744a2fa3433d9fa306, type: 2}
     - target: {fileID: 2300006, guid: b544816461f324e56a39767fdeb5b114, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: f85f511b30710bd468417ca9b03af952, type: 2}
+      objectReference: {fileID: 2100000, guid: 4c11e54477bc94744a2fa3433d9fa306, type: 2}
     - target: {fileID: 11400004, guid: b544816461f324e56a39767fdeb5b114, type: 3}
       propertyPath: clearColor.b
       value: 0
@@ -371,14 +371,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 867638419}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 13.501496, y: 150.86295, z: 169.4722}
+  m_LocalRotation: {x: -0, y: -0.90317434, z: 0, w: -0.42927396}
+  m_LocalPosition: {x: 19.73823, y: 50, z: 178.1532}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 5
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -230.843, z: 0}
 --- !u!1 &933036590
 GameObject:
   m_ObjectHideFlags: 0
@@ -424,7 +424,7 @@ Light:
   serializedVersion: 10
   m_Type: 2
   m_Shape: 0
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.30709326, g: 0.9716981, b: 0.58189, a: 1}
   m_Intensity: 3
   m_Range: 35
   m_SpotAngle: 30
@@ -776,7 +776,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1313715856}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 148.6, y: 34.8, z: 86.68}
+  m_LocalPosition: {x: 148.6, y: 24.1, z: 86.68}
   m_LocalScale: {x: 9.077452, y: 1, z: 10.72325}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -994,7 +994,7 @@ GameObject:
   - component: {fileID: 1461011427}
   - component: {fileID: 1461011426}
   m_Layer: 0
-  m_Name: Hazard Detector Spike Pit (1)
+  m_Name: Hazard Detector Spike Pit
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1249,7 +1249,7 @@ Light:
   serializedVersion: 10
   m_Type: 2
   m_Shape: 0
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.5518868, g: 1, b: 0.57996553, a: 1}
   m_Intensity: 3
   m_Range: 35
   m_SpotAngle: 30
