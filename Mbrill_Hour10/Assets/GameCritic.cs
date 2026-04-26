@@ -13,6 +13,6 @@ Overall the game is fun and exciting to watch. It is kind of like a screen saver
 
 1. Try adding variations of the chaos balls - Each ball has a unique size.
 2. try adding a chaod goal that you must bounce all the chaos balls into - I added a chaos goal that requires all 5 balls to hit before game is won.
-3. try making a complex bumper out of many shapes - The new bumper is humanoid shaped with arms and holding a hockey stick fit for hitting chaos balls.
+3. try making a complex bumper out of many shapes - The new bumper is humanoid shaped equipped with a hockey stick in left hand and a skateboard in the right fit for hitting chaos balls.
 4. Try covering up the water with a terrain, a plane, or other game objects around the border of the arena - I added a terrain textured with sand, rocky hills, and palm trees.
 */
