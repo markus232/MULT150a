@@ -80,7 +80,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 9169084953274385667}
-  m_RootOrder: 0
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &7952955592824815655
 MeshFilter:
@@ -220,7 +220,7 @@ GameObject:
   - component: {fileID: 7952955594382701213}
   - component: {fileID: 7952955594382701210}
   m_Layer: 0
-  m_Name: Lamp
+  m_Name: Lamp Pole
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -239,7 +239,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 9169084952882767960}
-  m_RootOrder: 9
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &7952955594382701212
 MeshFilter:
@@ -317,7 +317,7 @@ GameObject:
   - component: {fileID: 9169084951871394773}
   - component: {fileID: 9169084951871394770}
   m_Layer: 0
-  m_Name: Lamp (4)
+  m_Name: Lamp Cord L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -331,12 +331,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 9169084951871394771}
   m_LocalRotation: {x: -0, y: -0, z: -0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: -2.161976, y: 4.016806, z: 3.8630629}
-  m_LocalScale: {x: 0.5, y: 0.10000001, z: 0.1}
+  m_LocalPosition: {x: 0.8826666, y: 5.222493, z: 11.568691}
+  m_LocalScale: {x: 0.5, y: 0.10000002, z: 0.1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 9169084952882767960}
-  m_RootOrder: 3
+  m_Father: {fileID: 9169084953274385667}
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -90}
 --- !u!33 &9169084951871394772
 MeshFilter:
@@ -414,7 +414,7 @@ GameObject:
   - component: {fileID: 9169084951874946030}
   - component: {fileID: 9169084951874946031}
   m_Layer: 0
-  m_Name: Lamp (1)
+  m_Name: Lamp Top Arch
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -511,7 +511,7 @@ GameObject:
   - component: {fileID: 9169084951930335575}
   - component: {fileID: 9169084951930335572}
   m_Layer: 0
-  m_Name: Lamp (7)
+  m_Name: Lamp Arch R Hand
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -525,12 +525,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 9169084951930335573}
   m_LocalRotation: {x: -0, y: -0, z: -0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 3.8420238, y: 4.491806, z: 3.8630629}
+  m_LocalPosition: {x: 3.8420255, y: 4.491806, z: 3.8630629}
   m_LocalScale: {x: 0.5, y: 0.91516376, z: 0.5}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 9169084952882767960}
-  m_RootOrder: 6
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -90}
 --- !u!33 &9169084951930335574
 MeshFilter:
@@ -608,7 +608,7 @@ GameObject:
   - component: {fileID: 9169084952003088814}
   - component: {fileID: 9169084952003088815}
   m_Layer: 0
-  m_Name: Lamp (8)
+  m_Name: Lamp Arch L Hand
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -622,12 +622,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 9169084952003088812}
   m_LocalRotation: {x: -0, y: -0, z: -0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: -1.9739761, y: 4.491806, z: 3.8630629}
+  m_LocalPosition: {x: -1.9739776, y: 4.491806, z: 3.8630629}
   m_LocalScale: {x: 0.5, y: 0.91516376, z: 0.5}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 9169084952882767960}
-  m_RootOrder: 7
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -90}
 --- !u!33 &9169084952003088721
 MeshFilter:
@@ -725,7 +725,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 9169084953274385667}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &9169084952154534886
 MeshFilter:
@@ -884,7 +884,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 9169084953274385667}
-  m_RootOrder: 2
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &9169084952207900204
 MeshFilter:
@@ -962,7 +962,7 @@ GameObject:
   - component: {fileID: 9169084952268137455}
   - component: {fileID: 9169084952268137452}
   m_Layer: 0
-  m_Name: Lamp (3)
+  m_Name: Lamp Cord R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -976,11 +976,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 9169084952268137453}
   m_LocalRotation: {x: -0, y: -0, z: -0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 4.0300236, y: 4.016806, z: 3.8630629}
-  m_LocalScale: {x: 0.5, y: 0.10000001, z: 0.1}
+  m_LocalPosition: {x: 7.074666, y: 5.222493, z: 11.568691}
+  m_LocalScale: {x: 0.5, y: 0.10000002, z: 0.1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 9169084952882767960}
+  m_Father: {fileID: 9169084953274385667}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -90}
 --- !u!33 &9169084952268137454
@@ -1078,7 +1078,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 9169084953274385667}
-  m_RootOrder: 3
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &9169084952420460918
 MeshFilter:
@@ -1156,7 +1156,7 @@ GameObject:
   - component: {fileID: 9169084952540976267}
   - component: {fileID: 9169084952540976264}
   m_Layer: 0
-  m_Name: Lamp (2)
+  m_Name: Lamp Middle Arch
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1175,7 +1175,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 9169084952882767960}
-  m_RootOrder: 1
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -90}
 --- !u!33 &9169084952540976266
 MeshFilter:
@@ -1269,13 +1269,11 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 9169084951874945936}
-  - {fileID: 9169084952540976269}
-  - {fileID: 9169084952268137361}
-  - {fileID: 9169084951871394775}
   - {fileID: 9169084953432422723}
-  - {fileID: 9169084952995746439}
   - {fileID: 9169084951930335577}
+  - {fileID: 9169084952995746439}
   - {fileID: 9169084952003088720}
+  - {fileID: 9169084952540976269}
   - {fileID: 9169084953388206435}
   - {fileID: 7952955594382701215}
   m_Father: {fileID: 7378852047268291738}
@@ -1294,7 +1292,7 @@ GameObject:
   - component: {fileID: 9169084952995746437}
   - component: {fileID: 9169084952995746434}
   m_Layer: 0
-  m_Name: Lamp (6)
+  m_Name: Lamp Arch L Arm
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1308,12 +1306,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 9169084952995746435}
   m_LocalRotation: {x: -0, y: -0, z: 0.85441345, w: 0.5195938}
-  m_LocalPosition: {x: -1.0059762, y: 4.783806, z: 3.8630629}
-  m_LocalScale: {x: 0.5, y: 1.4060878, z: 0.5}
+  m_LocalPosition: {x: -1.0059776, y: 4.783806, z: 3.8630629}
+  m_LocalScale: {x: 0.5, y: 1.406088, z: 0.5}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 9169084952882767960}
-  m_RootOrder: 5
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 117.39}
 --- !u!33 &9169084952995746436
 MeshFilter:
@@ -1406,10 +1404,12 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 7952955592824815654}
   - {fileID: 9169084952154534889}
-  - {fileID: 9169084952207900207}
   - {fileID: 9169084952420460921}
+  - {fileID: 9169084952268137361}
+  - {fileID: 7952955592824815654}
+  - {fileID: 9169084952207900207}
+  - {fileID: 9169084951871394775}
   m_Father: {fileID: 7378852047268291738}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1426,7 +1426,7 @@ GameObject:
   - component: {fileID: 9169084953388206433}
   - component: {fileID: 9169084953388206462}
   m_Layer: 0
-  m_Name: Lamp (9)
+  m_Name: Lamp Bottom Arch
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1445,7 +1445,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 9169084952882767960}
-  m_RootOrder: 8
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -90}
 --- !u!33 &9169084953388206432
 MeshFilter:
@@ -1523,7 +1523,7 @@ GameObject:
   - component: {fileID: 9169084953432422721}
   - component: {fileID: 9169084953432422750}
   m_Layer: 0
-  m_Name: Lamp (5)
+  m_Name: Lamp Arch R Arm
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1536,13 +1536,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 9169084953432422751}
-  m_LocalRotation: {x: -0, y: -0, z: -0.8544146, w: 0.5195919}
-  m_LocalPosition: {x: 2.874024, y: 4.783806, z: 3.8630629}
-  m_LocalScale: {x: 0.5, y: 1.4060878, z: 0.5}
+  m_LocalRotation: {x: -0, y: -0, z: -0.8544145, w: 0.5195919}
+  m_LocalPosition: {x: 2.874026, y: 4.783806, z: 3.8630629}
+  m_LocalScale: {x: 0.5000005, y: 1.4060874, z: 0.5}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 9169084952882767960}
-  m_RootOrder: 4
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -117.39}
 --- !u!33 &9169084953432422720
 MeshFilter:
